@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t6q770wub-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/t6q770wub-python-gitops
